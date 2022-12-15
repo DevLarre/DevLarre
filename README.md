@@ -4,8 +4,9 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](dev.larre@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_larre)
 
-
 ![Larre GitHub stats](https://github-readme-stats.vercel.app/api?username=devlarre&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlarre)](https://github.com/devlarre/github-readme-stats)
 
 ### Technologies I study at the moment.
 
