@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dev.Larre.
+### Hello! I'm Dev.Larre.
 
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-rodrigues-larré-a59637231/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](dev.larre@outlook.com)
@@ -7,7 +7,7 @@
 
 ![Larre GitHub stats](https://github-readme-stats.vercel.app/api?username=devlarre&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I study at the moment.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
