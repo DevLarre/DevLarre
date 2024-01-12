@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_larre)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevLarre)
 
-![Larre GitHub stats](https://github-readme-stats.vercel.app/api?username=devlarre&show_count=6&theme=dracula_icons=true&theme=tokyonight)
+![Larre GitHub stats](https://github-readme-stats.vercel.app/api?username=devlarre&show_icons=true&theme=tokyonight_count=6&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLarre&layout=compact&langs_count=6&theme=dracula)](https://github.com/devlarre/github-readme-stats)
 
