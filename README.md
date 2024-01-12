@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLarre&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/devlarre/github-readme-stats)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLarre&repo=https://github.com/DevLarre?tab=repositories&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevLarre/https://github.com/DevLarre?tab=repositories)
-
 ### Technologies I study at the moment.
 
 <div style="display: inline_block"><br/>
